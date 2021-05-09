@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I'm Aspekts, great to meet you!
+# My Stats
+<p align="center">
+<img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=aspekts&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=radical" />
+</h3>
 
-<!--
-**aspekts/aspekts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspekts&layout=compact&count_private=true&theme=radical" alt="BenRed06" />
+</p>
+
+# Extra Info about me
+- 🔭 I’m currently working on my discord bot.. Yarn, which you can invite at [this website](http://invite.yarnbot.xyz)
+- 🌱 I’m currently learning html, css and node.js, all at the same time
+- 💬 Ask me about most discord.js stuff
+- 📫 How to reach me: Either email me at aspekts@yarnbot.xyz, or [join my discord server](https://discord.gg/GxGTHBC)
+
