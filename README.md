@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Aspekts, great to meet you!
 # My Stats
 <p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=aspekts&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=radical" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=aspekts&hide_border=true&show_icons=true&count_private=true&bg_color=000000&theme=radical" />
 </h3>
 
 </p>
