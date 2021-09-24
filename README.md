@@ -2,14 +2,13 @@
 # My Stats
 <p align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=aspekts&hide_border=true&show_icons=true&count_private=true&bg_color=000000&theme=radical" />
-</h3>
-
+ <img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=aspekts&range=last_year&layout=compact&theme=radical" />
 </p>
 
 <br>
 
 <p align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspekts&layout=compact&count_private=true&theme=radical" alt="BenRed06" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspekts&layout=compact&count_private=true&theme=radical"  />
 </p>
 
 # Extra Info about me
