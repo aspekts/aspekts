@@ -2,7 +2,7 @@
 # My Stats
 <p align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=aspekts&hide_border=true&show_icons=true&count_private=true&bg_color=000000&theme=radical" />
- <img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=aspekts&range=last_7_days&layout=compact&theme=radical" />
+ <img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=aspekts&theme=radical" />
 </p>
 
 <br>
