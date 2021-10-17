@@ -19,7 +19,7 @@
 <p align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspekts&count_private=true&theme=dark"  />
 </p>
-
+<a href="https://github.com/aspekts"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aspekts&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a
 # Extra Info about me
 - 🔭 I’m currently working on my discord bot. Yarn, which you can invite at [this website](http://invite.yarnbot.xyz)
 - 🌱 I’m also working on a package franchise, known as statisfy, that is aimed to stretch to as many languages as possible
