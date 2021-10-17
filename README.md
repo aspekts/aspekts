@@ -2,14 +2,22 @@
 ### Hi there 👋, I'm Aspekts, great to meet you!
 # My Stats
 <p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=aspekts&hide_border=true&show_icons=true&count_private=true&bg_color=000000&theme=radical" />
- <img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=aspekts&theme=radical" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=aspekts&hide_border=true&show_icons=true&count_private=true&bg_color=000000&theme=dark" />
 </p>
 
 <br>
-
+<p align="center"> 
+          <img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=aspekts&theme=dark" />
+  </p>
+  <br>
 <p align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspekts&layout=compact&count_private=true&theme=radical"  />
+    <a href="https://github.com/aspekts">
+        <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aspekts&theme=dark&hide_border=true&stroke=f53b3b"/>
+    </a>
+ </p>
+<br>
+<p align="center">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspekts&count_private=true&theme=dark"  />
 </p>
 
 # Extra Info about me
