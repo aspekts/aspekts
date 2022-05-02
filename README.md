@@ -7,9 +7,11 @@
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspekts&count_private=true&theme=dark"  />
 </p>
 <p align="center">
+ <a href="https://github.com/aspekts"> <img align="left"src ="https://metrics.lecoq.io/aspekts?template=terminal&config.timezone=Europe%2FLondon"></a>
   <a href="https://github.com/aspekts">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aspekts&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a>
+  <a href="https://github.com/aspekts"><img align="right" src="https://metrics.lecoq.io/aspekts?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FLondon"> </a>
 </p>
 <a href="https://github.com/aspekts"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aspekts&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a
 # Extra Info about me
