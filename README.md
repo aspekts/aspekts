@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/aspekts"><img src="https://skillicons.dev/icons?i=aws,azure,bash,bootstrap,cpp,cloudflare,css,discord,bots,express,fastapi,gcp,git,heroku,github,v,vim,regex,html,js,jquery,nodejs,linux,md,mysql,redis,mongodb,netlify,nextjs,py,react,sqlite,swift,ts,vscode"> </a> </p>
 
 # My Stats
-<p>
+<p align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=aspekts&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515" />
 <br>
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
