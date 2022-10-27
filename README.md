@@ -27,7 +27,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 23 September 2021 - To: 26 October 2022
+
+Total Time: 115 hrs 4 mins
+
+JavaScript         60 hrs 3 mins   █████████████░░░░░░░░░░░░   52.20 %
+HTML               13 hrs 50 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+Python             12 hrs 38 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
+TypeScript         7 hrs 26 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+JSON               7 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+CSS                2 hrs 37 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
