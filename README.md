@@ -6,8 +6,7 @@
 # My Stats
 <p align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=aspekts&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515" />
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspekts&count_private=true&theme=dark"  />
 </p>
 <p align="center">
@@ -23,3 +22,12 @@
 - 💡 In future I plan on finishing my own programming language, known as YarnLang
 - 💬 Ask me about most API Infrastructure stuff, I'd be happy to help you if I have the time!
 - 📫 How to reach me: Either email me at aspekts@yarndev.co.uk, or [join my discord server](https://discord.gg/GxGTHBC)
+
+## Coding Time
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
