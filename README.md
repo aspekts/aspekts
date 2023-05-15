@@ -11,15 +11,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 September 2021 - To: 12 May 2023
+From: 23 September 2021 - To: 13 May 2023
 
-Total Time: 186 hrs 28 mins
+Total Time: 192 hrs 46 mins
 
-JavaScript         89 hrs 57 mins  ████████████░░░░░░░░░░░░░   48.25 %
-HTML               31 hrs 41 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
-TypeScript         14 hrs 42 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-Python             14 hrs 12 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-JSON               11 hrs 54 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+JavaScript         94 hrs 34 mins  ████████████▒░░░░░░░░░░░░   49.06 %
+HTML               32 hrs 44 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
+TypeScript         14 hrs 42 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Python             14 hrs 12 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+JSON               12 hrs 13 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
 ```
 
 <!--END_SECTION:waka-->
