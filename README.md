@@ -11,15 +11,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2021 - To: 05 November 2024
+From: 23 September 2021 - To: 06 November 2024
 
-Total Time: 266 hrs 56 mins
+Total Time: 269 hrs 6 mins
 
-JavaScript         124 hrs 44 mins ███████████▓░░░░░░░░░░░░░   46.73 %
-HTML               37 hrs 55 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-Python             19 hrs 18 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-TypeScript         14 hrs 52 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-JSON               14 hrs 7 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+JavaScript         126 hrs 36 mins ███████████▓░░░░░░░░░░░░░   47.05 %
+HTML               37 hrs 55 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
+Python             19 hrs 20 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+TypeScript         14 hrs 52 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+JSON               14 hrs 10 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
 ```
 
 <!--END_SECTION:waka-->
