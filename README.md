@@ -31,10 +31,10 @@ JSON               14 hrs 34 mins  █░░░░░░░░░░░░░░
 <a href="https://github.com/aspekts"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aspekts&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
 
 # Extra Info about me
-- 🌱 I’m working on a package franchise, known as statisfy, that is aimed to stretch to as many languages as possible
-- 🔭 I’m currently working on the Node.js version of Statisfy.
-- 💡 In future I plan on finishing my own programming language, known as YarnLang
-- 💬 Ask me about most API Infrastructure stuff, I'd be happy to help you if I have the time!
-- 📫 How to reach me: Either email me at aspekts@yarndev.co.uk, or [join my discord server](https://discord.gg/GxGTHBC)
+- 🌱 I’m currently a 2nd Year BSc Computer Science Student at the University of Dundee
+- 🔭 I’m currently working a live bus times app for the city of Dundee
+- 💡 In future I plan on finishing my own programming language, known as YarnLang, as well as continue working on other projects in @Yarn-Development
+- 💬 Ask me about most things related to backend development or the MERN stack, I'd be happy to help you if I have the time!
+- 📫 How to reach me: Either email me at home@aspekts.dev, or [join my discord server](https://discord.gg/GxGTHBC)
 
 
