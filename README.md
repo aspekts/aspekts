@@ -32,8 +32,8 @@ JSON               15 hrs 12 mins  █░░░░░░░░░░░░░░
 
 # Extra Info about me
 - 🌱 I’m currently a 2nd Year BSc Computer Science Student at the University of Dundee
-- 🔭 I’m currently working a live bus times app for the city of Dundee
-- 💡 In future I plan on finishing my own programming language, known as YarnLang, as well as continue working on other projects in @Yarn-Development
+- 🔭 I’m currently working on [Sendix](https://sendix.ai) with [@Yarn-Development](https://github.com/Yarn-Development)
+- 💡 In future I plan on finishing my own programming language, known as YarnLang, as well as continue working on other projects in [@Yarn-Development](https://github.com/Yarn-Development)
 - 💬 Ask me about most things related to backend development or the MERN stack, I'd be happy to help you if I have the time!
 - 📫 How to reach me: Either email me at home@aspekts.dev, or [join my discord server](https://discord.gg/GxGTHBC)
 
