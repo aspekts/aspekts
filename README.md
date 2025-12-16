@@ -25,7 +25,7 @@ JSON               17 hrs 9 mins   █░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 <p align="center">
   <a href="https://github.com/aspekts">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aspekts&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats-blue-eta.vercel.app?user=aspekts&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a>
 </p>
 <a href="https://github.com/aspekts"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aspekts&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
