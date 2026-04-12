@@ -5,28 +5,11 @@
 
 # My Stats
 <p align="center">
-<img height="150px" src="https://readme-stats-beta-one.vercel.app/api?username=aspekts&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515" />
+<img height="150px" src="https://github-readme-stats.shion.dev/api?username=aspekts&hide_border=true&show_icons=true&count_private=true&theme=gruvbox" />
 </p>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 23 September 2021 - To: 10 April 2026
-
-Total Time: 472 hrs 40 mins
-
-JavaScript                         147 hrs 57 mins       ███████▓░░░░░░░░░░░░░░░░░   31.30 %
-TypeScript                         103 hrs 50 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
-Python                             55 hrs 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-HTML                               39 hrs                ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-JSON                               21 hrs 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-```
-
-<!--END_SECTION:waka-->
 <p align="center">
-  <a href="https://github.com/aspekts">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats-blue-eta.vercel.app?user=aspekts&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a>
+<a href="https://github.com/aspekts"><img src="https://github-readme-streak-stats-blue-eta.vercel.app?user=aspekts&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 <a href="https://github.com/aspekts"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aspekts&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
 
